@@ -4,7 +4,7 @@
 // }
 export {};
 // function childFun () {
-//   console.log(`I'm The call Back function`)
+//   console.log(`I'm The call Back fucnction`)
 // }
 // parentFunction(childFun)
 //? 0r
